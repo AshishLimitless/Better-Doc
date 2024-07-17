@@ -1,12 +1,13 @@
 # better_doc
 
-A new Flutter project.
+A flutter project where users can create and collobarte with docs.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
+## To TEST IT ---> 
+## step 1: download the code via zip
+## step 2: use flutter pub get
+## step 3: flutter run
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
